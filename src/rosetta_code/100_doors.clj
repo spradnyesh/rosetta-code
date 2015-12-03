@@ -1,4 +1,4 @@
-(ns rosetta-code.hundred-doors)
+(ns rosetta-code.100-doors)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; non-optimized
